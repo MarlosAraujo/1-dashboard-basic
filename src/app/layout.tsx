@@ -23,8 +23,10 @@ export default function RootLayout({
       <body
         className={`${inter.className} antialiased`}
       >
-        <Sidebar />
-        {children}
+        <div className="flex h-full">
+          <Sidebar />
+          {children}
+        </div>
       </body>
     </html>
   );
