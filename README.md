@@ -36,12 +36,11 @@ Este projeto serve como uma base para sistemas mais complexos, sendo ideal para 
    ```bash
    npm start
 
-
-### Contribuições
+## Contribuições
 
  - Sinta-se à vontade para contribuir com melhorias ou sugestões!
 
-### Licença
+## Licença
 
  - Este projeto está sob a Licença MIT.
  - Sinta-se à vontade para adicionar ou modificar seções conforme necessário!
