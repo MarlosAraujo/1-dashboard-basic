@@ -16,7 +16,7 @@ Este projeto serve como uma base para sistemas mais complexos, sendo ideal para 
 
 ## Tecnologias Utilizadas
    
-   [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,nextjs,react,bash,ts,prisma,postgres,vscode,docker,git,github,ubuntu,npm&theme=light)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=tailwind,nextjs,react,ts,prisma,postgres,docker,github,ubuntu&theme=light)](https://skillicons.dev)
 
   
 ## Como Rodar o Projeto
