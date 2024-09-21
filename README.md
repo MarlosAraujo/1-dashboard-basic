@@ -16,12 +16,16 @@ Este projeto serve como uma base para sistemas mais complexos, sendo ideal para 
 
 ## Tecnologias Utilizadas
 
-<!-- NextJS -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="NextJS" width="40" height="40"/>
-<!-- ReactJS -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="40" height="40"/>
-<!-- PostgreSQL -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+   - Linguagens Utilizadas
+   [![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,ts&theme=light)](https://skillicons.dev)
+   - Ferramentas Utilizadas
+   [![My Skills](https://skillicons.dev/icons?i=vscodedocker,git,github&theme=light)](https://skillicons.dev)
+   - Frameworks e Bibliotecas
+   [![My Skills](https://skillicons.dev/icons?i=tailwind,nextjs,react&theme=light)](https://skillicons.dev)
+   - Base de Dados & ORM
+   [![My Skills](https://skillicons.dev/icons?i=prisma,postgres&theme=light)](https://skillicons.dev)
+   - Ambiente de Desenvolvimento
+   [![My Skills](https://skillicons.dev/icons?i=ubuntu,npm&theme=light)](https://skillicons.dev)
   
 ## Como Rodar o Projeto
 
