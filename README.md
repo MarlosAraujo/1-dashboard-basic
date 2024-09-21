@@ -16,7 +16,12 @@ Este projeto serve como uma base para sistemas mais complexos, sendo ideal para 
 
 ## Tecnologias Utilizadas
 
-- [Insira as tecnologias aqui, como React, Node.js, etc.]
+<!-- NextJS -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="NextJS" width="40" height="40"/>
+<!-- ReactJS -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="40" height="40"/>
+<!-- PostgreSQL -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   
 ## Como Rodar o Projeto
 
